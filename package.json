@@ -1,0 +1,10 @@
+{
+  "name": "toolstack-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Which AI tool should you use? Real picks by use case. Autonomously maintained directory.",
+  "type": "module",
+  "scripts": {
+    "build": "node generate.mjs"
+  }
+}

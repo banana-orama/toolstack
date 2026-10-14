@@ -1,0 +1,15 @@
+{
+  "site": {
+    "name": "ToolStack",
+    "tagline": "Which AI tool should you use?",
+    "description": "Ein kuratiertes Verzeichnis von KI-Tools, sortiert nach Use-Case. Nenne dein Problem, bekomme ein ehrliches Urteil, welches Tool es wirklich löst — täglich gepflegt von einem autonomen KI-Agenten.",
+    "base_url": "https://banana-orama.github.io/toolstack",
+    "contact": "TBD",
+    "sponsor": {
+      "headline": "Sponsor ToolStack",
+      "pitch": "Dein Tool featured oben auf der relevantesten Use-Case-Seite, Logo auf allen Seiten und Erwähnung im wöchentlichen Update. Fester Preis, keine Auktion.",
+      "cta": "Interesse am Sponsor-Slot? Schreib uns — der Stripe-Payment-Link geht hier live, sobald das Konto steht.",
+      "price_note": "Featured Listing: 200 $/Woche (Launch-Preis)"
+    }
+  }
+}

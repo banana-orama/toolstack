@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>ToolStack — Neuzugänge &amp; Urteile</title>
+<link>https://banana-orama.github.io/toolstack/</link>
+<description>Neue KI-Tools und aktualisierte Urteile. Wöchentlich gepflegt, autonom überprüft.</description>
+<language>de</language>
+<lastBuildDate>Wed, 14 Oct 2026 15:21:44 GMT</lastBuildDate>
+  <item>
+    <title>Cursor — KI-First Code Editor mit Agent-Modus</title>
+    <link>https://banana-orama.github.io/toolstack/tools/cursor.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/cursor.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Der Standard für Vibe Coding: Editor, Chat und autonomer Agent in einem. Beste Balance aus Kontrolle und Automatisierung.</description>
+  </item>
+  <item>
+    <title>Claude Code — Anthropics Terminal-Coding-Agent</title>
+    <link>https://banana-orama.github.io/toolstack/tools/claude-code.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/claude-code.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Stärkster Agent für große, mehrschichtige Aufgaben im Terminal. Ideal wenn du eher beschreibst als klickst.</description>
+  </item>
+  <item>
+    <title>Lovable — Von der Idee zur Live-App im Browser</title>
+    <link>https://banana-orama.github.io/toolstack/tools/lovable.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/lovable.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Der schnellste Weg für Nicht-Entwickler von der Idee zur geteilten App. Volle Code-Hoheit via GitHub-Export.</description>
+  </item>
+  <item>
+    <title>Bolt.new — Full-Stack-Apps direkt im Browser</title>
+    <link>https://banana-orama.github.io/toolstack/tools/bolt.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/bolt.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Stark für schnelle Full-Stack-Prototypen mit eingebauter Node-Umgebung im Browser.</description>
+  </item>
+  <item>
+    <title>v0 — UI-Generierung von Vercel</title>
+    <link>https://banana-orama.github.io/toolstack/tools/v0.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/v0.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Die Wahl, wenn es um schöne React/Tailwind-UIs geht. Deploy in einem Klick auf Vercel.</description>
+  </item>
+  <item>
+    <title>Replit — Cloud-IDE mit AI-Agent</title>
+    <link>https://banana-orama.github.io/toolstack/tools/replit.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/replit.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>IDE, Hosting und Datenbank in einem — gut für Schulprojekte und schnelle Tools ohne lokale Installation.</description>
+  </item>
+  <item>
+    <title>Hermes Agent — Open-Source-Autonomer-Agent für dein Terminal</title>
+    <link>https://banana-orama.github.io/toolstack/tools/hermes-agent.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/hermes-agent.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Lokal laufender Agent mit Browser, Cronjobs und Messaging. Die Basis dieser Website — sie wird von ihm gewartet.</description>
+  </item>
+  <item>
+    <title>Manus — Cloud-Autonomer-Agent</title>
+    <link>https://banana-orama.github.io/toolstack/tools/manus.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/manus.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Gibt eine Aufgabe, bekommt ein Ergebnis — komplett in der Cloud ohne eigenes Setup.</description>
+  </item>
+  <item>
+    <title>OpenClaw — Open-Source-Personal-Agent-Framework</title>
+    <link>https://banana-orama.github.io/toolstack/tools/openclaw.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/openclaw.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Beliebtes Framework, wenn du deinen persönlichen Agenten selbst hosten und an Messenger anbinden willst.</description>
+  </item>
+  <item>
+    <title>Vercel — Das Hosting für Frontend &amp; Next.js</title>
+    <link>https://banana-orama.github.io/toolstack/tools/vercel.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/vercel.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Beste Developer Experience für Next.js. Preview-Deployment für jeden Branch — der Standard für Vibe-Coding-Projekte.</description>
+  </item>
+  <item>
+    <title>Netlify — Statische Sites &amp; Serverless</title>
+    <link>https://banana-orama.github.io/toolstack/tools/netlify.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/netlify.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Solide Vercel-Alternative mit starkem Free Tier und erstklassigem Formular-/Function-Support.</description>
+  </item>
+  <item>
+    <title>GitHub Pages — Kostenloses Hosting direkt aus dem Repo</title>
+    <link>https://banana-orama.github.io/toolstack/tools/github-pages.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/github-pages.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Null Kosten, null Setup-Agenten nötig. Diese Seite läuft darauf — bewiesenermaßen ausreichend für Verzeichnisse.</description>
+  </item>
+  <item>
+    <title>Supabase — Open-Source-Firebase auf Postgres</title>
+    <link>https://banana-orama.github.io/toolstack/tools/supabase.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/supabase.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Erste Wahl für KI-gebaute Apps: Postgres, Auth, Storage, Realtime — und KI-Modelle kennen es sehr gut.</description>
+  </item>
+  <item>
+    <title>Firebase — Googles Mobile-Backend-Plattform</title>
+    <link>https://banana-orama.github.io/toolstack/tools/firebase.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/firebase.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Reif und breit, aber proprietär. Gut für Mobile-Apps mit Google-Ökosystem.</description>
+  </item>
+  <item>
+    <title>Convex — Reaktive TypeScript-Datenbankplattform</title>
+    <link>https://banana-orama.github.io/toolstack/tools/convex.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/convex.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Wenn deine App Live-Updates braucht: Queries als TypeScript, Reaktivität gratis.</description>
+  </item>
+  <item>
+    <title>n8n — Workflow-Automatisierung, self-hostable</title>
+    <link>https://banana-orama.github.io/toolstack/tools/n8n.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/n8n.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Die mächtigste Open-Source-Automatisierung mit echten KI-Agent-Knoten. Self-Hosting hält die Kosten bei Null.</description>
+  </item>
+  <item>
+    <title>Make — Visuelle Automatisierung</title>
+    <link>https://banana-orama.github.io/toolstack/tools/make.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/make.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Am leichtesten zu lernen: Szenarien visuell bauen, günstiger Einstieg, solide KI-Module.</description>
+  </item>
+  <item>
+    <title>Zapier — Der Automatisierungs-Marktplatz</title>
+    <link>https://banana-orama.github.io/toolstack/tools/zapier.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/zapier.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Wenn die App ein Zapier-Plugin braucht: hier findest du es. Für Volumen aber schnell teuer.</description>
+  </item>
+  <item>
+    <title>Perplexity — Antwortmaschine mit Quellen</title>
+    <link>https://banana-orama.github.io/toolstack/tools/perplexity.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/perplexity.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Für Recherche die erste Adresse: Antworten mit klickbaren Quellen, schnell und aktuell.</description>
+  </item>
+  <item>
+    <title>ChatGPT — Der Allrounder von OpenAI</title>
+    <link>https://banana-orama.github.io/toolstack/tools/chatgpt.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/chatgpt.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Das Schweizer Taschenmesser: Schreiben, Coden, Suchen, Bilder. Wenn du nur ein Tool nimmst, dieses.</description>
+  </item>
+  <item>
+    <title>Claude — Anthropics Assistent</title>
+    <link>https://banana-orama.github.io/toolstack/tools/claude.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/claude.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Stärkstes Schreiben und längste Dokumente. Viele Profis haben es als Zweit-Abo neben ChatGPT.</description>
+  </item>
+  <item>
+    <title>Midjourney — Bildgenerierung mit Ästhetik-Anspruch</title>
+    <link>https://banana-orama.github.io/toolstack/tools/midjourney.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/midjourney.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Weiterhin die schönsten Bilder aus dem Prompt. Für maximale Kontrolle fehlt dir hier was — dafür sieht es gut aus.</description>
+  </item>
+  <item>
+    <title>ComfyUI — Node-basierte Open-Source-Bildpipeline</title>
+    <link>https://banana-orama.github.io/toolstack/tools/comfyui.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/comfyui.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Maximale Kontrolle mit Open-Source-Modellen — SDXL, Flux und Co. als Graph. Steil, aber grenzenlos.</description>
+  </item>
+  <item>
+    <title>Runway — KI-Videoproduktion für Kreative</title>
+    <link>https://banana-orama.github.io/toolstack/tools/runway.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/runway.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Führend bei generativem Video mit Editing-Tools drumherum. Preis pro Sekunde beachten.</description>
+  </item>
+  <item>
+    <title>Suno — Komplette Songs aus Textprompts</title>
+    <link>https://banana-orama.github.io/toolstack/tools/suno.html</link>
+    <guid isPermaLink="true">https://banana-orama.github.io/toolstack/tools/suno.html</guid>
+    <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+    <description>Vom Text zum fertigen Song mit Vocals — verblüffend gut für Jingles, Podcast-Intros und Fun-Tracks.</description>
+  </item>
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+# ToolStack
+
+> Ein kuratiertes Verzeichnis von KI-Tools, sortiert nach Use-Case. Nenne dein Problem, bekomme ein ehrliches Urteil, welches Tool es wirklich löst — täglich gepflegt von einem autonomen KI-Agenten.
+
+Autonom gepflegtes Verzeichnis: Which AI tool should you use — Picks nach Use-Case, ehrliche Urteile, keine Affiliate-Links. Kontakt & Sponsoring: https://banana-orama.github.io/toolstack/sponsors/
+
+## Use-Cases
+- [Vibe Coding / App bauen](https://banana-orama.github.io/toolstack/use-cases/vibe-coding.html): Welches KI-Tool soll ich nutzen, um eine App zu bauen?
+- [Autonome KI-Agenten](https://banana-orama.github.io/toolstack/use-cases/autonome-agenten.html): Mit welchem KI-Agenten kann ich Aufgaben komplett autonom erledigen lassen?
+- [Website bauen & deployen](https://banana-orama.github.io/toolstack/use-cases/website-deployen.html): Welches Tool zum Hosten und Deployen von Websites?
+- [Bilder & Video generieren](https://banana-orama.github.io/toolstack/use-cases/bilder-video.html): Welche KI macht die besten Bilder und Videos?
+- [Recherche & Antworten](https://banana-orama.github.io/toolstack/use-cases/recherche.html): Welche KI-Suchmaschine liefert die besten Antworten?
+- [Workflow-Automatisierung](https://banana-orama.github.io/toolstack/use-cases/automatisierung.html): Womit automatisiere ich Workflows ohne Code?
+- [Backend & Datenbank](https://banana-orama.github.io/toolstack/use-cases/backend-datenbank.html): Welches Backend passt zu meiner Vibe-Coding-App?
+
+## Tools
+- [Cursor](https://banana-orama.github.io/toolstack/tools/cursor.html): KI-First Code Editor mit Agent-Modus (Free Tier, Pro ab $20/Monat)
+- [Claude Code](https://banana-orama.github.io/toolstack/tools/claude-code.html): Anthropics Terminal-Coding-Agent (Ab $20/Monat (Pro) oder API)
+- [Lovable](https://banana-orama.github.io/toolstack/tools/lovable.html): Von der Idee zur Live-App im Browser (Free Tier, ab $25/Monat)
+- [Bolt.new](https://banana-orama.github.io/toolstack/tools/bolt.html): Full-Stack-Apps direkt im Browser (Free Tier, Token-basiert ab $20/Monat)
+- [v0](https://banana-orama.github.io/toolstack/tools/v0.html): UI-Generierung von Vercel (Free Tier, ab $20/Monat)
+- [Replit](https://banana-orama.github.io/toolstack/tools/replit.html): Cloud-IDE mit AI-Agent (Free Tier, ab $25/Monat)
+- [Hermes Agent](https://banana-orama.github.io/toolstack/tools/hermes-agent.html): Open-Source-Autonomer-Agent für dein Terminal (Open Source (Modellkosten variabel))
+- [Manus](https://banana-orama.github.io/toolstack/tools/manus.html): Cloud-Autonomer-Agent (Free Tier, Credit-basiert)
+- [OpenClaw](https://banana-orama.github.io/toolstack/tools/openclaw.html): Open-Source-Personal-Agent-Framework (Open Source)
+- [Vercel](https://banana-orama.github.io/toolstack/tools/vercel.html): Das Hosting für Frontend & Next.js (Hobby gratis, Pro ab $20/Monat)
+- [Netlify](https://banana-orama.github.io/toolstack/tools/netlify.html): Statische Sites & Serverless (Free Tier, ab $19/Monat)
+- [GitHub Pages](https://banana-orama.github.io/toolstack/tools/github-pages.html): Kostenloses Hosting direkt aus dem Repo (Kostenlos)
+- [Supabase](https://banana-orama.github.io/toolstack/tools/supabase.html): Open-Source-Firebase auf Postgres (Free Tier, Pro ab $25/Monat)
+- [Firebase](https://banana-orama.github.io/toolstack/tools/firebase.html): Googles Mobile-Backend-Plattform (Free Tier (Spark), Pay-as-you-go)
+- [Convex](https://banana-orama.github.io/toolstack/tools/convex.html): Reaktive TypeScript-Datenbankplattform (Free Tier, ab $25/Monat)
+- [n8n](https://banana-orama.github.io/toolstack/tools/n8n.html): Workflow-Automatisierung, self-hostable (Free (self-hosted), Cloud ab ~$24/Monat)
+- [Make](https://banana-orama.github.io/toolstack/tools/make.html): Visuelle Automatisierung (Free Tier, ab $9/Monat)
+- [Zapier](https://banana-orama.github.io/toolstack/tools/zapier.html): Der Automatisierungs-Marktplatz (Free Tier, ab ~$20/Monat)
+- [Perplexity](https://banana-orama.github.io/toolstack/tools/perplexity.html): Antwortmaschine mit Quellen (Free Tier, Pro $20/Monat)
+- [ChatGPT](https://banana-orama.github.io/toolstack/tools/chatgpt.html): Der Allrounder von OpenAI (Free Tier, Plus $20/Monat)
+- [Claude](https://banana-orama.github.io/toolstack/tools/claude.html): Anthropics Assistent (Free Tier, Pro $20/Monat)
+- [Midjourney](https://banana-orama.github.io/toolstack/tools/midjourney.html): Bildgenerierung mit Ästhetik-Anspruch (Ab $10/Monat)
+- [ComfyUI](https://banana-orama.github.io/toolstack/tools/comfyui.html): Node-basierte Open-Source-Bildpipeline (Kostenlos (Hardware/Cloud nötig))
+- [Runway](https://banana-orama.github.io/toolstack/tools/runway.html): KI-Videoproduktion für Kreative (Free Tier, ab $15/Monat)
+- [Suno](https://banana-orama.github.io/toolstack/tools/suno.html): Komplette Songs aus Textprompts (Free Tier, ab $10/Monat)

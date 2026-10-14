@@ -1,0 +1,227 @@
+# ToolStack — vollständiger Inhalt
+
+## Vibe Coding / App bauen
+Welches KI-Tool soll ich nutzen, um eine App zu bauen?
+Du willst mit KI eine komplette App oder Website bauen — vom Prompt zum Deploy. Diese Picks sind die ehrlichsten Vergleiche.
+1. Cursor: Bestes Gesamtpaket: Editor + Agent-Modus, baue ich selbst damit.
+2. Claude Code: Stärkster Terminal-Agent für größere Refactorings und Multi-File-Work.
+3. Lovable: Schnellster Weg von der Idee zur Live-App ohne eine Zeile Setup.
+
+## Autonome KI-Agenten
+Mit welchem KI-Agenten kann ich Aufgaben komplett autonom erledigen lassen?
+Agenten, die selbstständig planen, Tools bedienen und über Tage hinweg Aufgaben laufen lassen.
+1. Hermes Agent: Open Source, läuft lokal, hat Cronjobs + Browser + Messaging eingebaut.
+2. Manus: Gut für Cloud-Aufgaben ohne eigenes Setup, aber Closed Source.
+3. OpenClaw: Beliebtes Open-Source-Framework für persönliche Agenten mit Messaging-Anbindung.
+
+## Website bauen & deployen
+Welches Tool zum Hosten und Deployen von Websites?
+Statische Seiten, Next.js, Landingpages — wo deployt es sich am reibungslosesten mit KI-Workflow?
+1. Vercel: Beste DX für Next.js, Preview-Deployments pro Branch, Tier reicht zum Start.
+2. Netlify: Starker Standard für statische Sites und Serverless-Functions.
+3. GitHub Pages: Komplett kostenlos, direkt im Repo — diese Seite läuft darauf.
+
+## Bilder & Video generieren
+Welche KI macht die besten Bilder und Videos?
+Generative Media-Tools im direkten Vergleich: Fotorealismus, Kontrolle, Preis.
+1. Midjourney: Ästhetisch meist die besten Ergebnisse, weniger Kontrolle als ComfyUI.
+2. ComfyUI: Maximale Kontrolle mit Open-Source-Modellen, steilere Lernkurve.
+3. Runway: Führend bei KI-Video für kreative Projekte.
+
+## Recherche & Antworten
+Welche KI-Suchmaschine liefert die besten Antworten?
+KI-Suche mit Quellen für Recherche statt klassischer Suchmaschine.
+1. Perplexity: Beste Such-Antworten mit Quellenangaben, kostenlose Stufe nutzbar.
+2. ChatGPT: Breitestes Wissen plus Websuche, gute Allrounder-Wahl.
+3. Claude: Stark bei langen Dokumenten und nuanciertem Schreiben.
+
+## Workflow-Automatisierung
+Womit automatisiere ich Workflows ohne Code?
+Trigger, Webhooks, KI-Schritte in Knoten — die großen drei im Vergleich.
+1. n8n: Open Source, self-hostable, tiefste KI-Integration.
+2. Make: Visuell am zugänglichsten, günstiger Einstieg.
+3. Zapier: Größte App-Integration-Bibliothek, aber am teuersten.
+
+## Backend & Datenbank
+Welches Backend passt zu meiner Vibe-Coding-App?
+Auth, DB, Storage — Supabase vs. Firebase vs._convex für Projekte, die ein KI-Agent baut.
+1. Supabase: Postgres, Auth und Storage — KI-Agenten schreiben darauf sehr zuverlässigen Code.
+2. Firebase: Reifes Ökosystem, gute Tier, proprietäre APIs.
+3. Convex: Reaktive Queries, ideal für Realtime-Apps, kleineres Ökosystem.
+
+---
+
+## Cursor (coding)
+KI-First Code Editor mit Agent-Modus
+Preis: Free Tier, Pro ab $20/Monat
+Urteil: Der Standard für Vibe Coding: Editor, Chat und autonomer Agent in einem. Beste Balance aus Kontrolle und Automatisierung.
+Stärken: Tab-Completion der Spitzenklasse; Agent-Modus mit Terminal-Zugriff; Große Community
+Schwächen: Eigene Fork von VS Code; Pro-Preis bei intensiver Nutzung
+
+## Claude Code (coding)
+Anthropics Terminal-Coding-Agent
+Preis: Ab $20/Monat (Pro) oder API
+Urteil: Stärkster Agent für große, mehrschichtige Aufgaben im Terminal. Ideal wenn du eher beschreibst als klickst.
+Stärken: Exzellent bei langem Kontext; Gut testbare Änderungen; Skriptbar
+Schwächen: Keine GUI; Kosten bei hohen Token-Volumen
+
+## Lovable (coding)
+Von der Idee zur Live-App im Browser
+Preis: Free Tier, ab $25/Monat
+Urteil: Der schnellste Weg für Nicht-Entwickler von der Idee zur geteilten App. Volle Code-Hoheit via GitHub-Export.
+Stärken: Instant Deploy; GitHub-Sync; Einsteigerfreundlich
+Schwächen: Weniger Kontrolle als ein Editor; Creditslimit
+
+## Bolt.new (coding)
+Full-Stack-Apps direkt im Browser
+Preis: Free Tier, Token-basiert ab $20/Monat
+Urteil: Stark für schnelle Full-Stack-Prototypen mit eingebauter Node-Umgebung im Browser.
+Stärken: Läuft komplett im Browser; Schnelle Iteration
+Schwächen: Token-Verbrauch bei großen Apps; Debugging im Browser mühsam
+
+## v0 (coding)
+UI-Generierung von Vercel
+Preis: Free Tier, ab $20/Monat
+Urteil: Die Wahl, wenn es um schöne React/Tailwind-UIs geht. Deploy in einem Klick auf Vercel.
+Stärken: Sehr gutes Design-Auge; Vercel-Integration
+Schwächen: React/Tailwind-fokussiert; Backend-Themen out of scope
+
+## Replit (coding)
+Cloud-IDE mit AI-Agent
+Preis: Free Tier, ab $25/Monat
+Urteil: IDE, Hosting und Datenbank in einem — gut für Schulprojekte und schnelle Tools ohne lokale Installation.
+Stärken: Alles in einem; Sofort teilen
+Schwächen: Performance der Tier; Vendor-Lock-in
+
+## Hermes Agent (agents)
+Open-Source-Autonomer-Agent für dein Terminal
+Preis: Open Source (Modellkosten variabel)
+Urteil: Lokal laufender Agent mit Browser, Cronjobs und Messaging. Die Basis dieser Website — sie wird von ihm gewartet.
+Stärken: Open Source & lokal; Skills/Cronjobs/Memory eingebaut; Modellfrei wählbar
+Schwächen: Setup braucht technisches Interesse; Kein Managed-Hosting
+
+## Manus (agents)
+Cloud-Autonomer-Agent
+Preis: Free Tier, Credit-basiert
+Urteil: Gibt eine Aufgabe, bekommt ein Ergebnis — komplett in der Cloud ohne eigenes Setup.
+Stärken: Null Setup; Multistep-Aufgaben
+Schwächen: Closed Source; Credits
+
+## OpenClaw (agents)
+Open-Source-Personal-Agent-Framework
+Preis: Open Source
+Urteil: Beliebtes Framework, wenn du deinen persönlichen Agenten selbst hosten und an Messenger anbinden willst.
+Stärken: Große Community; Viele Plugins
+Schwächen: Betriebsaufwand; Sicherheitsrelevante Konfiguration nötig
+
+## Vercel (hosting)
+Das Hosting für Frontend & Next.js
+Preis: Hobby gratis, Pro ab $20/Monat
+Urteil: Beste Developer Experience für Next.js. Preview-Deployment für jeden Branch — der Standard für Vibe-Coding-Projekte.
+Stärken: Ein-Klick-Deploy; Globales CDN; Kostenloses Hobby-Tier
+Schwächen: Kosten bei hohem Traffic; Proprietäre Features locken ein
+
+## Netlify (hosting)
+Statische Sites & Serverless
+Preis: Free Tier, ab $19/Monat
+Urteil: Solide Vercel-Alternative mit starkem Free Tier und erstklassigem Formular-/Function-Support.
+Stärken: Großzügiger Free Tier; Forms & Functions eingebaut
+Schwächen: Build-Zeiten im Free Tier; Next.js läuft besser auf Vercel
+
+## GitHub Pages (hosting)
+Kostenloses Hosting direkt aus dem Repo
+Preis: Kostenlos
+Urteil: Null Kosten, null Setup-Agenten nötig. Diese Seite läuft darauf — bewiesenermaßen ausreichend für Verzeichnisse.
+Stärken: Echt kostenlos; Direkt im Repo; Kein Vendor-Lock-in
+Schwächen: Nur statisch; Kein Serverless
+
+## Supabase (backend)
+Open-Source-Firebase auf Postgres
+Preis: Free Tier, Pro ab $25/Monat
+Urteil: Erste Wahl für KI-gebaute Apps: Postgres, Auth, Storage, Realtime — und KI-Modelle kennen es sehr gut.
+Stärken: Echtes Postgres; Row-Level-Security; Gutes Tier
+Schwächen: Edge-Functions sind Deno; Projekt-Pausen im Tier
+
+## Firebase (backend)
+Googles Mobile-Backend-Plattform
+Preis: Free Tier (Spark), Pay-as-you-go
+Urteil: Reif und breit, aber proprietär. Gut für Mobile-Apps mit Google-Ökosystem.
+Stärken: Riesiges Ökosystem; Ausgereifte SDKs
+Schwächen: Proprietär; NoSQL-Modell in die Länge grenzwertig
+
+## Convex (backend)
+Reaktive TypeScript-Datenbankplattform
+Preis: Free Tier, ab $25/Monat
+Urteil: Wenn deine App Live-Updates braucht: Queries als TypeScript, Reaktivität gratis.
+Stärken: Typsicher end-to-end; Reaktiv ohne WebSockets-Code
+Schwächen: Kleineres Ökosystem; Neuer Stack
+
+## n8n (automation)
+Workflow-Automatisierung, self-hostable
+Preis: Free (self-hosted), Cloud ab ~$24/Monat
+Urteil: Die mächtigste Open-Source-Automatisierung mit echten KI-Agent-Knoten. Self-Hosting hält die Kosten bei Null.
+Stärken: Open Source; 400+ Integrationen; KI-Agent-Nodes
+Schwächen: Self-Hosting = Betrieb; Lernkurve bei komplexen Flows
+
+## Make (automation)
+Visuelle Automatisierung
+Preis: Free Tier, ab $9/Monat
+Urteil: Am leichtesten zu lernen: Szenarien visuell bauen, günstiger Einstieg, solide KI-Module.
+Stärken: Visuell & intuitiv; Günstig
+Schwächen: Operation-basiertes Pricing; Limitiert bei komplexer Logik
+
+## Zapier (automation)
+Der Automatisierungs-Marktplatz
+Preis: Free Tier, ab ~$20/Monat
+Urteil: Wenn die App ein Zapier-Plugin braucht: hier findest du es. Für Volumen aber schnell teuer.
+Stärken: 7000+ Integrationen; Zuverlässig
+Schwächen: Teuer bei Volumen; Eingeschränkte Tier-Taskanzahl
+
+## Perplexity (search)
+Antwortmaschine mit Quellen
+Preis: Free Tier, Pro $20/Monat
+Urteil: Für Recherche die erste Adresse: Antworten mit klickbaren Quellen, schnell und aktuell.
+Stärken: Quellen sichtbar; Schnell; Guter Tier
+Schwächen: Pro-Modelle nur im Abo; Tiefes Denken nicht der Fokus
+
+## ChatGPT (search)
+Der Allrounder von OpenAI
+Preis: Free Tier, Plus $20/Monat
+Urteil: Das Schweizer Taschenmesser: Schreiben, Coden, Suchen, Bilder. Wenn du nur ein Tool nimmst, dieses.
+Stärken: Breiteste Fähigkeit; Riesige Community; Guter Tier
+Schwächen: Nicht das beste bei jedem Einzelfall; Usage-Limits
+
+## Claude (search)
+Anthropics Assistent
+Preis: Free Tier, Pro $20/Monat
+Urteil: Stärkstes Schreiben und längste Dokumente. Viele Profis haben es als Zweit-Abo neben ChatGPT.
+Stärken: Schreibstil; Kontextfenster; Artifacts
+Schwächen: Websuche jünger als bei Konkurrenz; Limits im Tier
+
+## Midjourney (media)
+Bildgenerierung mit Ästhetik-Anspruch
+Preis: Ab $10/Monat
+Urteil: Weiterhin die schönsten Bilder aus dem Prompt. Für maximale Kontrolle fehlt dir hier was — dafür sieht es gut aus.
+Stärken: Beste Ästhetik; Aktive Community; Web-Editor
+Schwächen: Kein Tier; Weniger Kontrolle als ComfyUI
+
+## ComfyUI (media)
+Node-basierte Open-Source-Bildpipeline
+Preis: Kostenlos (Hardware/Cloud nötig)
+Urteil: Maximale Kontrolle mit Open-Source-Modellen — SDXL, Flux und Co. als Graph. Steil, aber grenzenlos.
+Stärken: Open Source; Reproduzierbare Pipelines; Keine Kosten pro Bild
+Schwächen: Lernkurve; GPU nötig
+
+## Runway (media)
+KI-Videoproduktion für Kreative
+Preis: Free Tier, ab $15/Monat
+Urteil: Führend bei generativem Video mit Editing-Tools drumherum. Preis pro Sekunde beachten.
+Stärken: Videomodelle der Spitzenklasse; Vollständiges Toolkit
+Schwächen: Credits; Kosten bei längeren Clips
+
+## Suno (media)
+Komplette Songs aus Textprompts
+Preis: Free Tier, ab $10/Monat
+Urteil: Vom Text zum fertigen Song mit Vocals — verblüffend gut für Jingles, Podcast-Intros und Fun-Tracks.
+Stärken: Gesang + Instrument in einem; Schnell
+Schwächen: Künstlerische Feinkontrolle limitiert; Kommerzielle Rechte erst in teureren Plänen

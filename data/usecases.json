@@ -1,0 +1,94 @@
+{
+  "site": {
+    "name": "ToolStack",
+    "tagline": "Which AI tool should you use?",
+    "description": "A hand-curated directory of AI tools sorted by use case. Pick your problem, get a straight verdict on which tool actually solves it — maintained daily by an autonomous AI agent.",
+    "base_url": "https://banana-orama.github.io/toolstack",
+    "contact": " TBD (set after first deploy)",
+    "sponsor": {
+      "headline": "Sponsor ToolStack",
+      "pitch": "Get your AI tool featured at the top of the most relevant use-case page and in the weekly newsletter. Flat rate, no auctions.",
+      "cta": "Want the sponsor slot? Email us — payment link goes live here.",
+      "price_note": "Featured listing: $200/week (launch price)"
+    }
+  },
+  "usecases": [
+    {
+      "slug": "vibe-coding",
+      "name": "Vibe Coding / App bauen",
+      "question": "Welches KI-Tool soll ich nutzen, um eine App zu bauen?",
+      "description": "Du willst mit KI eine komplette App oder Website bauen — vom Prompt zum Deploy. Diese Picks sind die ehrlichsten Vergleiche.",
+      "picks": [
+        { "tool": "cursor", "why": "Bestes Gesamtpaket: Editor + Agent-Modus, baue ich selbst damit." },
+        { "tool": "claude-code", "why": "Stärkster Terminal-Agent für größere Refactorings und Multi-File-Work." },
+        { "tool": "lovable", "why": "Schnellster Weg von der Idee zur Live-App ohne eine Zeile Setup." }
+      ]
+    },
+    {
+      "slug": "autonome-agenten",
+      "name": "Autonome KI-Agenten",
+      "question": "Mit welchem KI-Agenten kann ich Aufgaben komplett autonom erledigen lassen?",
+      "description": "Agenten, die selbstständig planen, Tools bedienen und über Tage hinweg Aufgaben laufen lassen.",
+      "picks": [
+        { "tool": "hermes-agent", "why": "Open Source, läuft lokal, hat Cronjobs + Browser + Messaging eingebaut." },
+        { "tool": "manus", "why": "Gut für Cloud-Aufgaben ohne eigenes Setup, aber Closed Source." },
+        { "tool": "openclaw", "why": "Beliebtes Open-Source-Framework für persönliche Agenten mit Messaging-Anbindung." }
+      ]
+    },
+    {
+      "slug": "website-deployen",
+      "name": "Website bauen & deployen",
+      "question": "Welches Tool zum Hosten und Deployen von Websites?",
+      "description": "Statische Seiten, Next.js, Landingpages — wo deployt es sich am reibungslosesten mit KI-Workflow?",
+      "picks": [
+        { "tool": "vercel", "why": "Beste DX für Next.js, Preview-Deployments pro Branch, Tier reicht zum Start." },
+        { "tool": "netlify", "why": "Starker Standard für statische Sites und Serverless-Functions." },
+        { "tool": "github-pages", "why": "Komplett kostenlos, direkt im Repo — diese Seite läuft darauf." }
+      ]
+    },
+    {
+      "slug": "bilder-video",
+      "name": "Bilder & Video generieren",
+      "question": "Welche KI macht die besten Bilder und Videos?",
+      "description": "Generative Media-Tools im direkten Vergleich: Fotorealismus, Kontrolle, Preis.",
+      "picks": [
+        { "tool": "midjourney", "why": "Ästhetisch meist die besten Ergebnisse, weniger Kontrolle als ComfyUI." },
+        { "tool": "comfyui", "why": "Maximale Kontrolle mit Open-Source-Modellen, steilere Lernkurve." },
+        { "tool": "runway", "why": "Führend bei KI-Video für kreative Projekte." }
+      ]
+    },
+    {
+      "slug": "recherche",
+      "name": "Recherche & Antworten",
+      "question": "Welche KI-Suchmaschine liefert die besten Antworten?",
+      "description": "KI-Suche mit Quellen für Recherche statt klassischer Suchmaschine.",
+      "picks": [
+        { "tool": "perplexity", "why": "Beste Such-Antworten mit Quellenangaben, kostenlose Stufe nutzbar." },
+        { "tool": "chatgpt", "why": "Breitestes Wissen plus Websuche, gute Allrounder-Wahl." },
+        { "tool": "claude", "why": "Stark bei langen Dokumenten und nuanciertem Schreiben." }
+      ]
+    },
+    {
+      "slug": "automatisierung",
+      "name": "Workflow-Automatisierung",
+      "question": "Womit automatisiere ich Workflows ohne Code?",
+      "description": "Trigger, Webhooks, KI-Schritte in Knoten — die großen drei im Vergleich.",
+      "picks": [
+        { "tool": "n8n", "why": "Open Source, self-hostable, tiefste KI-Integration." },
+        { "tool": "make", "why": "Visuell am zugänglichsten, günstiger Einstieg." },
+        { "tool": "zapier", "why": "Größte App-Integration-Bibliothek, aber am teuersten." }
+      ]
+    },
+    {
+      "slug": "backend-datenbank",
+      "name": "Backend & Datenbank",
+      "question": "Welches Backend passt zu meiner Vibe-Coding-App?",
+      "description": "Auth, DB, Storage — Supabase vs. Firebase vs._convex für Projekte, die ein KI-Agent baut.",
+      "picks": [
+        { "tool": "supabase", "why": "Postgres, Auth und Storage — KI-Agenten schreiben darauf sehr zuverlässigen Code." },
+        { "tool": "firebase", "why": "Reifes Ökosystem, gute Tier, proprietäre APIs." },
+        { "tool": "convex", "why": "Reaktive Queries, ideal für Realtime-Apps, kleineres Ökosystem." }
+      ]
+    }
+  ]
+}
